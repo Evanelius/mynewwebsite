@@ -9,7 +9,6 @@
 
 	<input type="submit" value="Отправить данные">
 
-</form>
 
 
 
